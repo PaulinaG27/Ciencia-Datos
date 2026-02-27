@@ -27,4 +27,4 @@ A través de diferentes visualizaciones como Histogramas, Boxplots y Regplots; c
 3. Ejecutar las demás celdas en orden para reproducir el análisis exploratorio y las visualizaciones.
 
 ### Dependencias Requeridas
-Este notebook utiliza dependencias como: `numpy` `pandas` `matplotlib` `seaborn` `kagglehub` `os` `shutil` `warnings`, las cuales en Colab la mayoría ya vienen instaladas.
+Este notebook utiliza dependencias como: `numpy`, `pandas`, `matplotlib`, `seaborn`, `kagglehub`, `os`, `shutil` y `warnings`, las cuales en Colab la mayoría ya vienen instaladas.
